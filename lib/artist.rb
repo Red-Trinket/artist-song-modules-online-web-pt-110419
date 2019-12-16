@@ -1,4 +1,5 @@
 require 'pry'
+require '..config/environment.rb'
 
 class Artist
   extend Memorable::ClassMethods
